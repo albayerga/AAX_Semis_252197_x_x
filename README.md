@@ -1,1 +1,5 @@
-# AAX_Semis_252197_x_x
+# AAX Seminars
+Students:
+- Alba Yerga (252197)
+- .
+- .
